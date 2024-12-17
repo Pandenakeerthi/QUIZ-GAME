@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(logo1.jpg);
+    background-position: center;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    text-align: center;
+}
+
+.container {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 80px;
+    background-color:transparent;
+    border: 6px solid hsla(0, 0%, 87%, 0.8);
+    border-radius: 40px;
+    box-shadow: 0px 4px 8px rgba(222, 34, 34, 0.1);
+
+}
+
+h1,label {
+    color: hsl(0, 10%, 87%);
+}
+#username{
+    padding: 10px;
+    width: 200px;
+}
+#start-button{
+    color: #151717;
+    background-color: rgb(217, 127, 42);
+    height: 50px;
+    width: 200px;
+}
+#start-button:hover{
+    background-color: hsl(116, 100%, 50%);
+}
+h2{
+    color: rgb(13, 12, 12);
+    background-color: white;
+    padding: 20px;
+    border-radius: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.button {
+    background-color: hwb(107 6% 9%);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0a0dd4;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #bbeeef;
+    border-radius: 55px;
+    cursor: pointer;
+}
+
+li:hover {
+    background-color: hsl(230, 57%, 67%);
+}
+
+.selected {
+    background-color: #16e027;
+    color: #fffffff7;
+}
+#final-score{
+    background-color: hsl(125, 26%, 91%);
+    color: #096725;
+    padding: 20px;
+    font-size: 30px;
+}
