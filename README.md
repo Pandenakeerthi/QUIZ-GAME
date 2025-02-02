@@ -26,7 +26,7 @@ JavaScript - Game logic and interactivity
 
 Live Demo
 
-You can try out the live demo here: Quiz Game Live Demo (#https://github.com/Pandenakeerthi/QUIZ-GAME/)
+You can try out the live demo here: Quiz Game Live Demo (https://github.com/Pandenakeerthi/QUIZ-GAME/)
 
 How to Run the Project
 
