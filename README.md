@@ -21,4 +21,4 @@ A beautifully designed villa website built using **HTML**, **CSS**, and **JavaSc
 ---
 
 ## **Live Demo**
-🎉 [VILLA LIVE DEMO](https://github.com/Pandenakeerthi/QUIZ-GAME)
+🎉 [ LIVE DEMO](https://github.com/Pandenakeerthi/QUIZ-GAME)
