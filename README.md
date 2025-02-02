@@ -1,52 +1,24 @@
-#Quiz Game
+# QUIZ GAME 🌟
 
-#Overview
+A beautifully designed villa website built using **HTML**, **CSS**, and **JavaScript**. This project showcases a modern, responsive design suitable for real estate or architectural websites.
 
-The Quiz Game is a simple web-based application built using HTML, CSS, and JavaScript. It allows users to log in with a username, take a quiz, submit their answers, and view the results along with the correct answers.
+---
 
-#Features
+## **Features**
+- Fully responsive design for mobile, tablet, and desktop.
+- Image sliders and galleries to showcase villas.
+- Smooth animations for a dynamic user experience.
+- Contact form for inquiries (frontend-only).
+- Integrated Google Fonts and icons.
 
-User Login: Users enter their username before starting the quiz.
+---
 
-Interactive Questions: Multiple-choice quiz format.
+## **Technologies Used**
+- **HTML**: For the structure and content.
+- **CSS**: For styling and responsive layout.
+- **JavaScript**: For interactivity and animations.
 
-Instant Feedback: Displays correct and incorrect answers after submission.
+---
 
-Score Calculation: Shows the user's score at the end.
-
-Responsive Design: Works well on different devices.
-
-#Technologies Used
-
-HTML - Structure of the application
-
-CSS - Styling and layout
-
-JavaScript - Game logic and interactivity
-
-Live Demo
-
-You can try out the live demo here: Quiz Game Live Demo (https://github.com/Pandenakeerthi/QUIZ-GAME/)
-
-How to Run the Project
-
-Clone or download the repository.
-
-Open index.html in a web browser.
-
-Enter a username and start the quiz.
-
-Select answers and submit.
-
-View results with correct answers highlighted.
-
-#Folder Structure
-
-/quiz-game
-├── index.html       # Main HTML file
-├── styles.css       # CSS file for styling
-├── script.js        # JavaScript file for game logic
-└── README.md        # Project documentation
-
-
-
+## **Live Demo**
+🎉 [VILLA LIVE DEMO](https://github.com/Pandenakeerthi/QUIZ-GAME)
