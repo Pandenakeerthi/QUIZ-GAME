@@ -1,10 +1,10 @@
 #Quiz Game
 
-Overview
+#Overview
 
 The Quiz Game is a simple web-based application built using HTML, CSS, and JavaScript. It allows users to log in with a username, take a quiz, submit their answers, and view the results along with the correct answers.
 
-Features
+#Features
 
 User Login: Users enter their username before starting the quiz.
 
@@ -16,7 +16,7 @@ Score Calculation: Shows the user's score at the end.
 
 Responsive Design: Works well on different devices.
 
-Technologies Used
+#Technologies Used
 
 HTML - Structure of the application
 
@@ -40,7 +40,7 @@ Select answers and submit.
 
 View results with correct answers highlighted.
 
-Folder Structure
+#Folder Structure
 
 /quiz-game
 ├── index.html       # Main HTML file
@@ -48,17 +48,5 @@ Folder Structure
 ├── script.js        # JavaScript file for game logic
 └── README.md        # Project documentation
 
-Future Enhancements
 
-Add a timer for each question.
-
-Store high scores using local storage.
-
-Implement different difficulty levels.
-
-License
-
-This project is open-source and free to use for learning purposes.
-
-Happy Coding! 🚀
 
